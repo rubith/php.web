@@ -9,7 +9,6 @@
 <body>
 <marquee>
 	<h1>bienvenido a heroku</h1>
-	<h2>yupi subiiiiiiiiiii</h2>
 	</marquee>
 </body>
 </html>
